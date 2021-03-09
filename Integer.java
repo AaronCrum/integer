@@ -1,8 +1,5 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Lab 2
- *  Description: Write a program that reads an integer between 0 and 1000 and multiplies all the digits in the integer 
+ *  Description: A program that reads an integer between 0 and 1000 and multiplies all the digits in the integer 
 */
 
 import java.util.Scanner;
